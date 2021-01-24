@@ -1,4 +1,4 @@
-# bReader
+# Booker
 application for progress tracking in book reading.
 # To run:
 Mac/Linux:
