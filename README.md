@@ -1,5 +1,5 @@
 # Booker_
-application for progress tracking in book reading.
+application for progress tracking in bookreading.
 # To run:
 Mac/Linux:
 java -cp .:/lib* bReader database.properties
