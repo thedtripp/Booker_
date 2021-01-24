@@ -1,4 +1,4 @@
-# Booker
+# Booker_
 application for progress tracking in book reading.
 # To run:
 Mac/Linux:
